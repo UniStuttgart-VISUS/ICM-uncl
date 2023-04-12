@@ -1,2 +1,3 @@
-# ICM-uncl
-Unity (easy) collaborative networking layer
+# üncl - unity (easy) collaborative networking layer
+
+Sponsored by ICM research project: https://www.icm-bw.de/
